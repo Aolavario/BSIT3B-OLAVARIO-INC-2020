@@ -3,6 +3,15 @@
 #AOshoes
 A registarion system that has these functionalities
 
+Admin
+Email - aniza@gmail
+Password - aniza
+
+User
+Email - olavario@gmail
+Password- olavario
+
+
 #Add Record
 
 #New Item
