@@ -13,3 +13,4 @@ A registarion system that has these functionalities
 
 #Delete Record
 
+https://aolavario.github.io/BSIT3B-OLAVARIO-INC-2020/
