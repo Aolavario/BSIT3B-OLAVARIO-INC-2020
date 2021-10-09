@@ -27,4 +27,4 @@ Can update sales, and if the product are already sold and not available anymore
 #Delete Record
 When the prodoct/account was not needed anymore you can delete and have new one
 
-https://aolavario.github.io/BSIT3B-OLAVARIO-INC-2020/
+
